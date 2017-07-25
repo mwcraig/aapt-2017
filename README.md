@@ -1,11 +1,11 @@
-# From glowscript to Jupyter and beyond
+# Python across the curriculum: From glowscript to Jupyter and beyond
 
 Talk presented at AAPT Summer Meeting 2017
 
 ## Talk slides
 + PDF: [aapt-glow-jupyter-2017.pdf](https://github.com/mwcraig/aapt-2017.git)
 + Keynote: https://www.icloud.com/keynote/0EM0Z92rzwQM0meKzc5IvN-Aw#aapt-glow-jupyter-2017
-+ PowerPoint:
++ PowerPoint: http://physics.mnstate.edu/craig/aapt-glow-jupyter-2017.pptx
 
 ## spyder
 + Documentation: https://pythonhosted.org/spyder/
